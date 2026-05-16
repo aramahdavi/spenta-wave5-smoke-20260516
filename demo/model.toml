@@ -1,0 +1,6 @@
+[meta]
+model_id = "spenta_wave5_smoke_v1"
+name = "Spenta Wave 5 Smoke Model"
+
+[model]
+description = "Minimal manifest for testing Spenta GitHub repo discovery."
